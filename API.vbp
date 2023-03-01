@@ -3,6 +3,7 @@ Reference=*\G{00020430-0000-0000-C000-000000000046}#2.0#0#C:\Windows\SysWOW64\st
 Form=_files\frmMain.frm
 Module=mCurl; _files\mCurl.bas
 Class=hCurl; _files\hCurl.cls
+Class=hJsonBag; _files\hJsonBag.cls
 IconForm="frmMain"
 Startup="frmMain"
 Command32=""
